@@ -1,4 +1,4 @@
-🌍 Food-Riak-Predictor Engine
+🌍 Food-Risk-Predictor Engine
 Executive Summary
 The Food-Risk-Prediction (FRP) Engine is an advanced, end-to-end data science application designed to serve as an Early Warning System (EWS) for acute food insecurity globally.
 
@@ -84,7 +84,7 @@ pip package manager
 Installation
 Clone the Repository:
 
-git clone [https://github.com/your-username/food-risk-predictor.git]
+git clone https://github.com/Pranathireddyrajula/Food-Risk-Predictor.git
 cd food-risk-predictor
 
 Create and Activate Virtual Environment:
@@ -136,3 +136,4 @@ food-risk-predictor/
 ├── src/                        # Contains core pipeline logic (modular Python scripts, e.g., 01_data_prep.py)
 ├── app.py                      # Main Streamlit application and deployment file
 └── README.md                   # This file
+
